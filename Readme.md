@@ -1,1 +1,1 @@
-Hello world
+An expense tracker us created using nextjs
